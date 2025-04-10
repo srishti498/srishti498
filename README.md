@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srishti Kumari</h1>
-<h3 align="center">🛡️ Ethical hacker and cybersecurity enthusiast, skilled in penetration testing, exploit development, and vulnerability assessment, always learning to stay ahead of threats! 🚀🔍</h3>
+<h3 align="center">cybersecurity enthusiast, skilled in penetration testing, exploit development, and vulnerability assessment, always learning to stay ahead of threats! 🚀🔍</h3>
 
 - 🔭 I’m currently working on my project **"TrueFace".**
 
-- 🌱 I’m currently learning **advanced ethical hacking techniques.**
+- 🌱 I’m currently learning **cybersecurity analyst.**
 
 - 👯 I’m looking to collaborate on **"Open-source cybersecurity projects".**
 
