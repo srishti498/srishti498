@@ -4,13 +4,12 @@
 - 🔭 I’m currently doing an on **Intership** as a **Frontend Developer** and exploring real-world **Cybersecurity** problems.
 
 - 🌱 I’m currently learning **cybersecurity analyst.**
+  
+- 🛠️ Built:
+  - **TrueFace** – A Fake Social Media Profile Detection tool using ML
+  - **Email Spam Classifier** – Classifies spam emails using Python and Machine Learning
 
-- 👯 I’m looking to collaborate on:
-- Cybersecurity tools
-- Python automation projects
-- Simple frontend apps using modern UI
-
-- 💬 Ask me about **web security best practices and scripting in Bash.**
+- 👯 I’m looking to collaborate on **Cybersecurity tools**, **Python automation projects** and **Simple frontend apps using modern UI.**
 
 - 📫 How to reach me **kumarsinghnarendra018@gmail.com**
 
