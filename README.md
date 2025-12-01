@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Understanding cybersecurity fundamentals & digital safety tools.**
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/srishti-kumari-a3582a281/)
 
 - 💬 Ask me about **Content writing, storytelling, research writing, LinkedIn writing.**
 
